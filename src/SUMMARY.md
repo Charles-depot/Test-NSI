@@ -1,6 +1,6 @@
 # Summary
 
-- [Présentation du cours](index.md)
+- [Présentation et notebooks](index.md)
 - [Introduction à l'optimisation](0_introduction/0_intro.md)
 - [Algorithmes gloutons](1_algorithmes_gloutons/algorithmes_gloutons.md)
 	- [TD algorithmes gloutons](1_algorithmes_gloutons/TD_algorithmes_gloutons.md)
