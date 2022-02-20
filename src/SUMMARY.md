@@ -14,5 +14,4 @@
 - [Programmation lineaire : en nombres entiers](7_programmation_lineaire_en_nombre_entiers/mip.md)
     - [TD programmation linéaire](7_programmation_lineaire_en_nombre_entiers/td/td_pl.md)
 - [Branch & Bound](8_branch_and_bound/branch_and_bound.md)
-- [Approximation algorithms on TSP](https://mybinder.org/v2/gh/fortierq/binder-oc/main?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Ffortierq%252Foc-m1-2021%26urlpath%3Dlab%252Ftree%252Foc-m1-2021%252Fsrc%252F9_heuristics/tsp.ipynb%26branch%3Dmaster)
 - [Programme de l'examen](10_exam.md)
