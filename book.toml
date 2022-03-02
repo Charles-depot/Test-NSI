@@ -1,12 +1,12 @@
 [book]
-authors = ["Quentin Fortier"]
+authors = ["Charles Poulmaire"]
 language = "en"
 multilingual = false
 src = "src"
-title = "Optimisation combinatoire"
+title = "Cours NSI"
 
 [output.html]
-git-repository-url = "https://github.com/fortierq/oc-m1-2021"
+git-repository-url = "https://github.com/charles-depot/Test-nsi"
 mathjax-support = true
 
 [output.html.print]
