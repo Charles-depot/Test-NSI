@@ -1,5 +1,4 @@
-# Programme de l'examen
-
+# Programme 
 Aucun document ne sera autorisé
 
 - Il peut y avoir quelques questions sur ce qui a été vu avant le partiel  
